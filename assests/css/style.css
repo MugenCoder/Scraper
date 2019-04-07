@@ -1,0 +1,10 @@
+.container-articles {
+    background-color: gray;
+    padding: 15px 0;
+}
+
+.scrape-article {
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+}
