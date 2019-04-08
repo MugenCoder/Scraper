@@ -1,6 +1,8 @@
 $(document).ready(fucntion() {
 // 1. write fn to scrape articles w/ AJAX call
+    
 // 2. write fn to render articles in ui
+
 // 3. call render articles fn in .then() of promise of scrape articles fn
 
 // Example setup
